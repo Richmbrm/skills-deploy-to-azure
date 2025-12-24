@@ -1,4 +1,4 @@
-name: deploy-staging.yml
+name: stage the app
 
 on:
   pull_request:
